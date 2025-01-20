@@ -1,0 +1,37 @@
+2xx (Success Status Codes)
+
+
+200 OK-
+
+Meaning: 
+	The request succeeded, and the server returned the result.
+Example: 
+	Opening a webpage.
+Request: 
+	Open example.com
+Response: 
+	The webpage is displayed.
+
+
+201 Created-
+
+Meaning: 
+	The request succeeded, and a new resource was created.
+Example: 
+	Signing up on a website.
+Request: 
+	Submit a signup form.
+Response:
+	"Account created successfully!"
+
+
+204 No Content-
+
+Meaning: 
+	The request succeeded, but there’s no content to return.
+Example: 
+	Deleting a file.
+Request:
+	Delete a file.
+Response: 
+	File deleted, but no message is shown.
