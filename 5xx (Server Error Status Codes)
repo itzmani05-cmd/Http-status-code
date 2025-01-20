@@ -1,0 +1,17 @@
+5xx (Server Error Status Codes)
+
+
+500 Internal Server Error-
+
+Meaning: 
+  Something went wrong on the server’s side.
+Example: 
+  A bug in the code causes the server to crash.
+
+
+502 Bad Gateway-
+
+Meaning: 
+  The server received an invalid response from another server.
+Example:
+  A website is down because the upstream server failed.
