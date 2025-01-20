@@ -1,0 +1,37 @@
+4xx (Client Error Status Codes)
+
+
+400 Bad Request-
+
+Meaning: 
+  The server couldn’t understand the request due to invalid syntax.
+Example: 
+  Sending an incomplete form.
+Request: 
+  Submit a form missing required fields.
+Response: 
+  "Invalid input, please try again."
+
+
+401 Unauthorized-
+
+Meaning: 
+  You need to log in to access the resource.
+Example: 
+  Trying to access a private dashboard without logging in.
+
+
+403 Forbidden-
+
+Meaning: 
+  You’re not allowed to access the resource, even if logged in.
+Example: 
+  Trying to view admin settings as a regular user.
+
+
+404 Not Found-
+
+Meaning: 
+  The resource doesn’t exist.
+Example: 
+  Accessing example.com/unknown-page.
