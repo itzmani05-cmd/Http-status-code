@@ -1,0 +1,29 @@
+3xx (Redirection Status Codes)
+
+
+300 Multiple Choices
+
+Meaning: 
+  The resource has multiple options (e.g., different formats or languages).
+Example: 
+  Accessing a webpage with multiple language options.
+
+
+301 Moved Permanently
+
+Meaning:  
+  The resource has been moved to a new URL permanently.
+Example: 
+  Accessing oldwebsite.com redirects to newwebsite.com.
+Request: 
+  Open oldwebsite.com.
+Response: 
+  Redirected to newwebsite.com.
+
+
+302 Found
+
+Meaning:
+  The resource is temporarily at a different URL.
+Example: 
+  A product page is temporarily redirected to a maintenance page.
