@@ -2,7 +2,7 @@ HTTP STATUS CODE:-
 
 -> HTTP status codes are a set of standard response codes the server sends to the client (like a browser) to indicate the result of
 an HTTP request. 
-->They are categorized into five groups, each representing a different type of response.
+-> They are categorized into five groups, each representing a different type of response.
 
   i) 1xx (Informational)     : The request was received, and the process is continuing.
 
